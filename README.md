@@ -21,8 +21,8 @@
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/enas-galal/" target="_blank"><img src="https://w7.pngwing.com/pngs/887/616/png-transparent-linkedin-icon-linkedin-text-rectangle-logo-thumbnail.png"/></a>
-<a href="https://t.me/NooooR96" target="_blank"><img src="https://w7.pngwing.com/pngs/772/115/png-transparent-computer-icons-telegram-logo-angle-white-triangle-thumbnail.png"/></a>
+<a href="https://www.linkedin.com/in/enas-galal/" target="_blank"><img src="https://img.shields.io/badge/-Enas%20Galal-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://t.me/NooooR96" target="_blank"><img src="https://img.shields.io/badge/-Enas%20Galal-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
@@ -42,12 +42,13 @@
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=enasgalal96&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
+<!--
 <a href="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
 </a>
-<!--
+
 **EnasGalal96/EnasGalal96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
