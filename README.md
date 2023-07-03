@@ -16,8 +16,7 @@
 - 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript, and Angular, or anything related to web development.
 - ⚡ Fun Fact: I am a big fan of Harry Potter (I'm a Potterhead).
-- <!--
-- 👨‍💻 Check out my portfolio at https://yousef-dergham.netlify.app/ to see some of the projects I've worked on.-->
+
 
 
 ### Connect with Me :
